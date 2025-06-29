@@ -50,7 +50,7 @@ To minimize the risk of account suspension or ban, we strongly advise using this
 Please ensure compliance with all applicable terms of service and guidelines of Telegram.
 By following these guidelines, you can mitigate potential risks and enjoy the benefits of the bot responsibly.
 Happy cloning!
-@ELUpdates__
+@DigitalGalaxyHQ__
 """
 
 HELPMSG = """
@@ -86,5 +86,5 @@ A Clone/Forwarder Bot with advanced features.
 Source Code : [CloneBot](https://t.me/DigitalGalaxyHQ)
 Framework : [Pyrogram](https://docs.pyrogram.org)
 Language : [Python](https://www.python.org)
-Developer : [Jɪᴛʜᴜ Mᴀᴛʜᴇᴡ Jᴏsᴇᴘʜ](https://t.me/Spider_Man_02)
+Developer : [𝑷𝒆𝒕𝒆𝒓 𝑷𝒂𝒓𝒌𝒆𝒓 🕸](https://t.me/Spider_Man_02)
 """
