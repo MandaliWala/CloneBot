@@ -8,15 +8,15 @@ START_KB = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton("🆘 Help", callback_data="help_cb"),
-            InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/jithumon"),
+            InlineKeyboardButton("👨‍💻 Developer", url="https://t.me/Spider_Man_02"),
         ],
         [
             InlineKeyboardButton("⚠️ Disclaimer", callback_data="disc_str"),
-            InlineKeyboardButton("📢 Update Channel", url="https://t.me/ELUpdates"),
+            InlineKeyboardButton("📢 Update Channel", url="https://t.me/DigitalGalaxyHQ"),
         ],
         [
             InlineKeyboardButton(
-                "📢 Source Code", url="https://github.com/EL-Coders/CloneBot"
+                "📢 Source Code", url="https://t.me/DigitalGalaxyHQ"
             )
         ],
     ]
@@ -40,7 +40,7 @@ HELP_RET_KB = InlineKeyboardMarkup(
     [[InlineKeyboardButton("🔙 Back", callback_data="help_cb")]]
 )
 
-STARTMSG = "Hi **[{}](tg://user?id={})**, I am an advanced auto forwarder/clone bot, powered by @ELUpdates.\n\nCheck help for commands.\n\n**To avoid any future complications, please read the disclaimer carefully.**"
+STARTMSG = "Hi **[{}](tg://user?id={})**, I am an advanced auto forwarder/clone bot, powered by @DigitalGalaxyHQ.\n\nCheck help for commands.\n\n**To avoid any future complications, please read the disclaimer carefully.**"
 
 DISCL_TXT = """
 **Disclaimer:**
@@ -83,8 +83,8 @@ ABT_MSG = """
 
 A Clone/Forwarder Bot with advanced features.
 
-Source Code : [CloneBot](https://github.com/EL-Coders/CloneBot)
+Source Code : [CloneBot](https://t.me/DigitalGalaxyHQ)
 Framework : [Pyrogram](https://docs.pyrogram.org)
 Language : [Python](https://www.python.org)
-Developer : [Jɪᴛʜᴜ Mᴀᴛʜᴇᴡ Jᴏsᴇᴘʜ](https://t.me/jithumon)
+Developer : [Jɪᴛʜᴜ Mᴀᴛʜᴇᴡ Jᴏsᴇᴘʜ](https://t.me/Spider_Man_02)
 """
